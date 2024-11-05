@@ -6,10 +6,11 @@
 ### Faculty of Engineering and Applied Science - Software Systems Engineering
 
 ### Lab Instructor: [Trevor Douglas](mailto:trevor.douglas@uregina.ca)
+### Fill in Instructor: [Adam Tilson](mailto:adam.tilson@uregina.ca)
 
 ## Objective
 
-The objective of this lab is to introduce the students to building a C project and interface to buttons and switches from their 384 development board.
+The objective of this lab is to introduce the students to building a C project and interface to buttons and switches from their ENEL 384 parts kit.
 
 ## Background
 
@@ -25,7 +26,7 @@ Now that you are providing a clocking source to your I/O lines you must configur
 Last week you configured the onboard button to control the onboard LED. Repeat this but using a C project.
 
 ### Phase 2
-If you have not done so already, use the parts from your electronics course to build the circuit from the schematic provided on URCourses. There is also a video for your resource.
+If you have not done so already, use the parts from your electronics course to build the circuit from the schematic provided on URCourses.
 
 ### Phase 3
 Once the circuit is built, write the code such that each button will control a corresponding LED like a light switch.
